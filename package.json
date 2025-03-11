@@ -1,0 +1,8 @@
+{
+  "name": "com.jingwen.unitycgincludes",
+  "version": "1.0.0",
+  "displayName": "JW Unity CG Includes",
+  "description": "Unity CG includes for project.",
+  "unity": "2022.3",
+  "dependencies": {}
+}
